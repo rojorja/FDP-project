@@ -1,0 +1,4 @@
+user01|12345|Activo|Juan|Perez
+user02|abcde99|Activo|Jank|Rojo
+admin|adm1234|Activo|Administrador|Sistema
+user03|abcde98|Inactivo|María|Lopez
